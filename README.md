@@ -10,7 +10,7 @@
 **LinkShelf** is a minimal, responsive link hub for developers and creatives.  
 Built as a static frontend MVP, it lets you showcase projects, profiles, and contact links in a clean layout — with no backend or database.
 
-It’s fully client-side and built for simplicity, clarity, and speed.
+It’s fully client-side and built for simplicity, and speed.
 
 ---
 
